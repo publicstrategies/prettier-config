@@ -3,7 +3,16 @@
   "version": "1.0.0",
   "description": "Prettier config for frontend projects 💅",
   "main": "index.json",
-  "files": [
-    "index.json"
-  ]
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/psdevs/prettier-config.git"
+  },
+  "contributors": [
+    "Chris Vandenberg <chris@altruisticsoftware.com>"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/psdevs/prettier-config/issues"
+  },
+  "homepage": "https://gitlab.com/psdevs/prettier-config#readme"
 }
