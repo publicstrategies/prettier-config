@@ -1,0 +1,9 @@
+{
+  "name": "@psdevs/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for frontend projects 💅",
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ]
+}
