@@ -3,9 +3,6 @@
   "version": "1.0.1",
   "description": "Prettier config for frontend projects 💅",
   "main": "index.json",
-  "files": [
-    "assets/banner.png"
-  ],
   "repository": {
     "type": "git",
     "url": "git+ssh://git@gitlab.com/psdevs/prettier-config.git"
